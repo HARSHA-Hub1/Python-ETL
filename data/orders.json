@@ -1,0 +1,355 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD10001",
+      "customer": {
+        "id": "C101",
+        "name": "Ravi"
+      },
+      "order_date": "2026-08-01",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Laptop",
+          "quantity": 2,
+          "unit_price": 50000
+        },
+        {
+          "product": "Mouse",
+          "quantity": 3,
+          "unit_price": 1500
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10002",
+      "customer": {
+        "id": "C102",
+        "name": "Priya"
+      },
+      "order_date": "2026-08-02",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Monitor",
+          "quantity": 1,
+          "unit_price": 25000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10003",
+      "customer": {
+        "id": "C103",
+        "name": "Arun"
+      },
+      "order_date": "2026-08-03",
+      "status": "PENDING",
+      "items": [
+        {
+          "product": "Keyboard",
+          "quantity": 2,
+          "unit_price": 3000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10004",
+      "customer": {
+        "id": "C101",
+        "name": "Ravi"
+      },
+      "order_date": "2026-08-04",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Headphones",
+          "quantity": 4,
+          "unit_price": 4000
+        },
+        {
+          "product": "Webcam",
+          "quantity": 1,
+          "unit_price": 3500
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10005",
+      "customer": {
+        "id": "C104",
+        "name": "Meena"
+      },
+      "order_date": "2026-08-05",
+      "status": "CANCELLED",
+      "items": [
+        {
+          "product": "Tablet",
+          "quantity": 1,
+          "unit_price": 30000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10006",
+      "customer": {
+        "id": "C105",
+        "name": "Kiran"
+      },
+      "order_date": "2026-08-06",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Laptop",
+          "quantity": 1,
+          "unit_price": 50000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10007",
+      "customer": {
+        "id": "C106",
+        "name": "Anita"
+      },
+      "order_date": "2026-08-07",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Printer",
+          "quantity": 2,
+          "unit_price": 12000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10008",
+      "customer": {
+        "id": "C107",
+        "name": "Vijay"
+      },
+      "order_date": "2026-08-08",
+      "status": "PENDING",
+      "items": [
+        {
+          "product": "Mouse",
+          "quantity": 10,
+          "unit_price": 1500
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10009",
+      "customer": {
+        "id": "C108",
+        "name": "Neha"
+      },
+      "order_date": "2026-08-09",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Monitor",
+          "quantity": 2,
+          "unit_price": 25000
+        },
+        {
+          "product": "Keyboard",
+          "quantity": 2,
+          "unit_price": 3000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10010",
+      "customer": {
+        "id": "C109",
+        "name": "Rahul"
+      },
+      "order_date": "2026-08-10",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Laptop",
+          "quantity": 3,
+          "unit_price": 50000
+        }
+      ]
+    },
+
+    {
+      "order_id": "ORD10011",
+      "customer": {
+        "id": "C110",
+        "name": "Sneha"
+      },
+      "order_date": "2026-08-11",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Tablet",
+          "quantity": 2,
+          "unit_price": 30000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10012",
+      "customer": {
+        "id": "C101",
+        "name": "Ravi"
+      },
+      "order_date": "2026-08-12",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Mouse",
+          "quantity": 5,
+          "unit_price": 1500
+        },
+        {
+          "product": "Keyboard",
+          "quantity": 1,
+          "unit_price": 3000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10013",
+      "customer": {
+        "id": "C102",
+        "name": "Priya"
+      },
+      "order_date": "2026-08-13",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Printer",
+          "quantity": 1,
+          "unit_price": 12000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10014",
+      "customer": {
+        "id": "C103",
+        "name": "Arun"
+      },
+      "order_date": "2026-08-14",
+      "status": "CANCELLED",
+      "items": [
+        {
+          "product": "Laptop",
+          "quantity": 1,
+          "unit_price": 50000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10015",
+      "customer": {
+        "id": "C104",
+        "name": "Meena"
+      },
+      "order_date": "2026-08-15",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Headphones",
+          "quantity": 2,
+          "unit_price": 4000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10016",
+      "customer": {
+        "id": "C105",
+        "name": "Kiran"
+      },
+      "order_date": "2026-08-16",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Webcam",
+          "quantity": 2,
+          "unit_price": 3500
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10017",
+      "customer": {
+        "id": "C106",
+        "name": "Anita"
+      },
+      "order_date": "2026-08-17",
+      "status": "PENDING",
+      "items": [
+        {
+          "product": "Monitor",
+          "quantity": 1,
+          "unit_price": 25000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10018",
+      "customer": {
+        "id": "C107",
+        "name": "Vijay"
+      },
+      "order_date": "2026-08-18",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Keyboard",
+          "quantity": 3,
+          "unit_price": 3000
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10019",
+      "customer": {
+        "id": "C108",
+        "name": "Neha"
+      },
+      "order_date": "2026-08-19",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Laptop",
+          "quantity": 1,
+          "unit_price": 50000
+        },
+        {
+          "product": "Mouse",
+          "quantity": 2,
+          "unit_price": 1500
+        }
+      ]
+    },
+    {
+      "order_id": "ORD10020",
+      "customer": {
+        "id": "C109",
+        "name": "Rahul"
+      },
+      "order_date": "2026-08-20",
+      "status": "COMPLETED",
+      "items": [
+        {
+          "product": "Tablet",
+          "quantity": 1,
+          "unit_price": 30000
+        },
+        {
+          "product": "Headphones",
+          "quantity": 1,
+          "unit_price": 4000
+        }
+      ]
+    }
+  ]
+}
